@@ -1,0 +1,1 @@
+Shelljs = Npm.require('shelljs');
