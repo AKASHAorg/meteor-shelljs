@@ -20,7 +20,7 @@ Npm.depends({
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use('ecmascript');
-  api.addFiles('shelljs.js');
+  api.addFiles('shelljs.js', 'server');
   api.export('Shelljs', 'server');
 });
 
