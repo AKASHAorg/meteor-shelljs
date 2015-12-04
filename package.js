@@ -1,5 +1,5 @@
-const version = '0.5.3';
-
+const npmVersion = '0.5.3';
+const version = '0.5.4';
 Package.describe({
   name: 'akasha:shelljs',
   version: version,
