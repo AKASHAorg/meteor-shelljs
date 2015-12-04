@@ -13,7 +13,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'shelljs':  version
+  'shelljs':  npmVersion
 });
 
 
